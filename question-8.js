@@ -1,14 +1,6 @@
 // Question #8: Fetching User List from Server
 
 // เริ่มเขียนโค้ดตรงนี้
-//let newUsers = () => {
-   // return fetch("https://jsonplaceholder.typicode.com/users")
-   //   .then((response) => response.json()) 
-    //  .then((data) => data.map((user) => user.name)); 
- // };
-  
- // newUsers()
- 
 
 async function newUsers() {
   try{
